@@ -1,0 +1,114 @@
+{
+  "frequencyData": [
+    {
+      "name": "1 AM",
+      "purchaseFrequency": 555,
+      "netFrequency": 125
+    },
+    {
+      "name": "2 AM",
+      "purchaseFrequency": 395,
+      "netFrequency": 210
+    },
+    {
+      "name": "3 AM",
+      "purchaseFrequency": 165,
+      "netFrequency": 310
+    },
+    {
+      "name": "4 AM",
+      "purchaseFrequency": 250,
+      "netFrequency": 430
+    },
+    {
+      "name": "5 AM",
+      "purchaseFrequency": 380,
+      "netFrequency": 335
+    },
+    {
+      "name": "6 AM",
+      "purchaseFrequency": 300,
+      "netFrequency": 190
+    },
+    {
+      "name": "7 AM",
+      "purchaseFrequency": 649,
+      "netFrequency": 225
+    },
+    {
+      "name": "8 AM",
+      "purchaseFrequency": 445,
+      "netFrequency": 450
+    },
+    {
+      "name": "9 AM",
+      "purchaseFrequency": 280,
+      "netFrequency": 400
+    },
+    {
+      "name": "10 AM",
+      "purchaseFrequency": 400,
+      "netFrequency": 180
+    },
+    {
+      "name": "11 AM",
+      "purchaseFrequency":190,
+      "netFrequency": 250
+    },
+    {
+      "name": "12 AM",
+      "purchaseFrequency": 500,
+      "netFrequency": 220
+    },
+    {
+      "name": "1 PM",
+      "purchaseFrequency": 699,
+      "netFrequency": 300
+    },
+    {
+      "name": "2 PM",
+      "purchaseFrequency": 420,
+      "netFrequency": 490
+    },
+     {
+      "name": "3 PM",
+      "purchaseFrequency": 269,
+      "netFrequency": 400
+    },
+     {
+      "name": "4 PM",
+      "purchaseFrequency": 300,
+      "netFrequency": 200
+    },
+     {
+      "name": "5 PM",
+      "purchaseFrequency": 479,
+      "netFrequency": 280
+    },
+     {
+      "name": "6 PM",
+      "purchaseFrequency": 629,
+      "netFrequency": 120
+    },
+     {
+      "name": "7 PM",
+      "purchaseFrequency": 429,
+      "netFrequency": 240
+    },
+     {
+      "name": "8 PM",
+      "purchaseFrequency": 249,
+      "netFrequency": 420
+    },
+     {
+      "name": "9 PM",
+      "purchaseFrequency": 200,
+      "netFrequency": 0
+    },
+     {
+      "name": "10 PM",
+      "purchaseFrequency": 400,
+      "netFrequency": 0
+    }
+  ]
+}
